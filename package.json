@@ -1,0 +1,27 @@
+{
+  "name": "coderhouse-backend-desafio-4",
+  "version": "1.0.0",
+  "description": "Desafio 4 del curso de backend de Coder House",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzalorp/coderhouse-backend-desafio-4.git"
+  },
+  "author": "Gonzalo Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzalorp/coderhouse-backend-desafio-4/issues"
+  },
+  "homepage": "https://github.com/gonzalorp/coderhouse-backend-desafio-4#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
